@@ -1,0 +1,48 @@
+.gorne_pudlo {
+    display: flex;
+}
+
+.lewe_mini{
+    background-color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.prawe_pudlo {
+    background-color: orange;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+    width: 33%;
+}
+
+.srodek {
+    display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.pomarancza {
+    background-color: orange;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+    width: 66%;
+}
+
+.dolne_pudla {
+    display: flex;
+    gap: 50%;
+    background-color: blue;
+    color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
